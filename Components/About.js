@@ -1,4 +1,4 @@
-
+// About section
 const About = () => {
     return(<div className="my-5" id="About">
         <div className="flex my-5 items-center bg-pink-950  h-[50px]">

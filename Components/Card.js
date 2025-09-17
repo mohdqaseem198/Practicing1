@@ -1,3 +1,4 @@
+//Card section
 import Image from "next/image";
 
 const Card = ({img, name}) => {
