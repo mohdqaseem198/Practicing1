@@ -58,7 +58,7 @@ const Footer = () => {
             </div>
         </div>
         <div className="text-white text-center">
-            <div className="w-full h-1 bg-white m-5 "></div>
+            <div className="w-full h-1 bg-white my-5 m-auto"></div>
             <h2 className="m-5">© 2025 Digital Attarwala</h2>
             <div>
                 <h2>Website developed by</h2>
