@@ -57,6 +57,27 @@ const Footer = () => {
                 </div>
             </div>
         </div>
+        <div className="text-white text-center">
+            <div className="w-full h-1 bg-white m-5 "></div>
+            <h2 className="m-5">© 2025 Digital Attarwala</h2>
+            <div>
+                <h2>Website developed by</h2>
+                <div className="flex flex-col justify-around text-center
+                sm:flex sm:flex-row">
+                    <div>
+                        <svg width={25} className="inline m-3 fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M224.2 89C216.3 70.1 195.7 60.1 176.1 65.4L170.6 66.9C106 84.5 50.8 147.1 66.9 223.3C104 398.3 241.7 536 416.7 573.1C493 589.3 555.5 534 573.1 469.4L574.6 463.9C580 444.2 569.9 423.6 551.1 415.8L453.8 375.3C437.3 368.4 418.2 373.2 406.8 387.1L368.2 434.3C297.9 399.4 241.3 341 208.8 269.3L253 233.3C266.9 222 271.6 202.9 264.8 186.3L224.2 89z"/></svg>
+                        <span>Qaseem Ansari</span>
+                        <a className="ml-6 block" href="tel:9172708664">+91-9172708664</a>
+                    </div>
+                    <div>
+                        <svg width={25} className="inline m-3 fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><path d="M224.2 89C216.3 70.1 195.7 60.1 176.1 65.4L170.6 66.9C106 84.5 50.8 147.1 66.9 223.3C104 398.3 241.7 536 416.7 573.1C493 589.3 555.5 534 573.1 469.4L574.6 463.9C580 444.2 569.9 423.6 551.1 415.8L453.8 375.3C437.3 368.4 418.2 373.2 406.8 387.1L368.2 434.3C297.9 399.4 241.3 341 208.8 269.3L253 233.3C266.9 222 271.6 202.9 264.8 186.3L224.2 89z"/></svg>
+                        <span>Usama Ansari</span>
+                        <a className="ml-6 block" href="tel:9021599825">+91-9021599825</a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
     </div>)
 };
 
